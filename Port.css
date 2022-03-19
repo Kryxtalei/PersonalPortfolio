@@ -17,7 +17,7 @@ h1 {
 }
 
 .Textunderline {
-  text-align: start;
+  text-align: center;
 }
 
 .my-skills {
@@ -31,4 +31,8 @@ h1 {
 .ending {
   font-size: 20px;
   text-align: center;
+}
+
+.it {
+  color: rgba(50, 11, 155, 0.486);
 }
