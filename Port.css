@@ -1,0 +1,34 @@
+h1,
+p,
+ol {
+  font-family: sans-serif;
+  line-height: 2;
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: peru;
+}
+
+.Main {
+  text-align: center;
+}
+
+.Textunderline {
+  text-align: start;
+}
+
+.my-skills {
+  font-size: 26px;
+  list-style: circle;
+  list-style-position: inside;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.ending {
+  font-size: 20px;
+  text-align: center;
+}
