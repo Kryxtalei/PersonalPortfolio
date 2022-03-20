@@ -6,10 +6,17 @@ ol {
   font-size: 30px;
 }
 
+.mainskills {
+  background-color: rgb(226, 212, 193);
+  border: 15px solid salmon;
+}
+
 h1 {
   text-align: center;
   font-size: 60px;
   color: peru;
+  border: 5px solid rgb(107, 176, 219);
+  background-color: antiquewhite;
 }
 
 .Main {
@@ -35,4 +42,17 @@ h1 {
 
 .it {
   color: rgba(50, 11, 155, 0.486);
+}
+
+body {
+  background-color: antiquewhite;
+  border: 3px solid lightskyblue;
+}
+
+.lines {
+  border: 5px solid peru;
+}
+
+.dumbass {
+  border: 5px dotted lightseagreen;
 }
