@@ -11,6 +11,10 @@ ol {
   border: 15px solid salmon;
 }
 
+.mainskills:hover {
+  border: 15px solid purple;
+}
+
 h1 {
   text-align: center;
   font-size: 60px;
@@ -21,10 +25,23 @@ h1 {
 
 .Main {
   text-align: center;
+  color: rgb(49, 107, 143);
+  font-weight: bold;
+}
+.dumbasstext {
+  text-align: center;
+  color: rgb(39, 173, 173);
+}
+
+.dumbasstext:hover {
+  color: orange;
 }
 
 .Textunderline {
   text-align: center;
+  font-weight: bold;
+  color: rgb(49, 107, 143);
+  font-size: 35px;
 }
 
 .my-skills {
@@ -50,9 +67,36 @@ body {
 }
 
 .lines {
-  border: 5px solid peru;
+  border: 1px solid peru;
+  line-height: 2;
+  font-size: 27px;
 }
 
 .dumbass {
   border: 5px dotted lightseagreen;
+}
+
+.Rllink {
+  border: solid lightskyblue;
+  text-align: center;
+}
+
+.Rllink:hover {
+  border: solid orange;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(39, 173, 173);
+  font-weight: bold;
+}
+
+a:hover {
+  color: orange;
+}
+
+.ending {
+  text-decoration: underline;
+  color: rgb(49, 107, 143);
+  font-size: 50px;
 }
