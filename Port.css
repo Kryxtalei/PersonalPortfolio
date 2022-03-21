@@ -7,8 +7,8 @@ ol {
 }
 
 .mainskills {
-  background-color: rgb(226, 212, 193);
-  border: 15px solid salmon;
+  background-color: rgba(188, 125, 230, 0.658);
+  border: 15px solid orange;
 }
 
 .mainskills:hover {
@@ -19,22 +19,22 @@ h1 {
   text-align: center;
   font-size: 60px;
   color: peru;
-  border: 5px solid rgb(107, 176, 219);
-  background-color: antiquewhite;
+  border: 5px solid rgb(5, 100, 21);
+  background-color: rgba(188, 125, 230, 0.658);
 }
 
 .Main {
   text-align: center;
-  color: rgb(49, 107, 143);
+  color: rgb(72, 25, 180);
   font-weight: bold;
 }
 .dumbasstext {
   text-align: center;
-  color: rgb(39, 173, 173);
+  color: orange;
 }
 
 .dumbasstext:hover {
-  color: orange;
+  color: rgba(50, 11, 155, 0.486);
 }
 
 .Textunderline {
@@ -62,22 +62,22 @@ h1 {
 }
 
 body {
-  background-color: antiquewhite;
-  border: 3px solid lightskyblue;
+  background-color: rgba(188, 125, 230, 0.658);
+  border: 3px solid rgba(50, 11, 155, 0.486);
 }
 
 .lines {
-  border: 1px solid peru;
+  border: 1px solid rgba(50, 11, 155, 0.486);
   line-height: 2;
   font-size: 27px;
 }
 
 .dumbass {
-  border: 5px dotted lightseagreen;
+  border: 5px dotted rgba(50, 11, 155, 0.486);
 }
 
 .Rllink {
-  border: solid lightskyblue;
+  border: solid rgba(50, 11, 155, 0.486);
   text-align: center;
 }
 
@@ -87,16 +87,16 @@ body {
 
 a {
   text-decoration: none;
-  color: rgb(39, 173, 173);
+  color: rgba(50, 11, 155, 0.486);
   font-weight: bold;
 }
 
 a:hover {
-  color: orange;
+  color: rgba(50, 11, 155, 0.486);
 }
 
 .ending {
   text-decoration: underline;
-  color: rgb(49, 107, 143);
+  color: rgba(50, 11, 155, 0.486);
   font-size: 50px;
 }
